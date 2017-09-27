@@ -1,5 +1,5 @@
 # Project Title: Rethinking-Statistics
-Project for Rethinking Stats Group project
+Project for Rethinking Stats Group project. This is an addendum to the original post.
 
 
 ## Getting Started
